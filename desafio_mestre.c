@@ -18,7 +18,7 @@ int main () {
 
 printf("Carta 1: \n");
 
-    printf("Digite uma Letra de A - H (carta 1): \n");
+    printf("Digite uma letra de A - H (carta 1): \n");
         scanf("%s", &estado1); // estado A - H (carta 1)
 
     printf("Digite o Código da carta 1 (carta 1): \n");
@@ -30,14 +30,14 @@ printf("Carta 1: \n");
     printf("Digite a quantidade populacional (carta 1): \n");
         scanf("%d", &populacao1); // população total da cidade (carta 1)
 
-    printf("Digite a area (carta 1): \n");
+    printf("Digite a área (carta 1): \n");
         scanf("%f", &area1); // área da cidade (carta 1)
 
-    printf("Digite o pib (carta 1): \n");
+    printf("Digite o PIB (carta 1): \n");
         scanf("%f", &pib1); // produto interno bruto da cidade (carta 1)
 
-    printf("Digite o número de pontos turisticos (carta 1): \n");
-        scanf("%f", &num_pontos_T1); // número de pontos turisticos da cidade (carta 1)
+    printf("Digite o número de pontos turísticos (carta 1): \n");
+        scanf("%f", &num_pontos_T1); // número de pontos turísticos da cidade (carta 1)
 
 // CALCULO E EXIBIÇÃO DA DENSIDADE (CARTA 1)
     densidade_popul1 = populacao1 / area1 ;
@@ -55,7 +55,7 @@ printf("Carta 1: \n");
 
 printf("Carta 2: \n");
 
-    printf("Digite uma Letra de A - H (carta 2): \n");
+    printf("Digite uma letra de A - H (carta 2): \n");
         scanf("%s", &estado2); // estado A - H (carta 2)
 
     printf("Digite o Código da carta 1 (carta 2): \n");
@@ -67,14 +67,14 @@ printf("Carta 2: \n");
     printf("Digite a quantidade populacional (carta 2): \n");
         scanf("%d", &populacao2); // população total da cidade (carta 2)
 
-    printf("Digite a area (carta 2): \n");
+    printf("Digite a área (carta 2): \n");
         scanf("%f", &area2); // área da cidade (carta 2)
 
-    printf("Digite o pib (carta 2): \n");
+    printf("Digite o PIB (carta 2): \n");
         scanf("%f", &pib2); // produto interno bruto da cidade (carta 2)
 
-    printf("Digite o número de pontos turisticos (carta 2): \n");
-        scanf("%f", &num_pontos_T2); // número de pontos turisticos da cidade (carta 2)
+    printf("Digite o número de pontos turísticos (carta 2): \n");
+        scanf("%f", &num_pontos_T2); // número de pontos turísticos da cidade (carta 2)
 
 // CALCULO E EXIBIÇÃO DA DENSIDADE (CARTA 2)
     densidade_popul2 = populacao2 / area2 ;
