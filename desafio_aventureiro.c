@@ -12,7 +12,7 @@ int main () {
     float pib1, pib2, pib_capita1, pib_capita2;
     int num_pontos_T1, num_pontos_T2;
 
-// INSERIR INFORMAÇÕES A CARTA 1
+// INSERIR INFORMAÇÕES DA CARTA 1
 
 printf("Carta 1: \n");
 

@@ -13,7 +13,7 @@ int main () {
     int num_pontos_T1, num_pontos_T2;
 
 
-// INSERIR INFORMAÇÕES A CARTA 1
+// INSERIR INFORMAÇÕES DA CARTA 1
 
 printf("Carta 1: \n");
 
@@ -38,7 +38,7 @@ printf("Carta 1: \n");
     printf("Digite o número de pontos turísticos (carta 1): \n");
         scanf("%f", &num_pontos_T1); // número de pontos turísticos da cidade (carta 1)
 
-// INSERIR INFORMAÇÕES A CARTA 2
+// INSERIR INFORMAÇÕES DA CARTA 2
 
 printf("Carta 2: \n");
 
